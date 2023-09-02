@@ -1,6 +1,6 @@
-# SmallGitWebRepoView
+# git-webui-funsize
 
-The Git Repository Viewer is a powerful and intuitive Flask web application that provides a comprehensive web interface for exploring Git repositories. This project showcases the seamless integration of Flask with GitPython, allowing users to effortlessly navigate through a repository's files and commit history.
+Funsize is a is a Flask web application that provides a compact single file size web interface for exploring Git repositories. The project showcases the integration of Flask with GitPython, allowing users to navigate through a repository's files and commit history.
 
 ## Features
 
